@@ -1,0 +1,13 @@
+# Multi-agent orchestration
+crewai>=1.0.0
+crewai-tools>=1.0.0
+
+# LLM provider (GPT-4 / GPT-4o) and embeddings for crew memory
+openai>=1.40.0
+
+# Environment / API key loading
+python-dotenv>=1.0.0
+
+# HTTP + HTML parsing used by SerperDevTool / ScrapeWebsiteTool
+requests>=2.31.0
+beautifulsoup4>=4.12.0
